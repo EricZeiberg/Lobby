@@ -1,4 +1,4 @@
 Lobby
 =====
 
-The plugin that manages lobby related stuff on the EUHC server.
+The plugin that manages lobby related stuff on The Minepire Network
